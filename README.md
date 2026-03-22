@@ -1,3 +1,5 @@
+> 😅 **Note:** This was incredibly frustrating to figure out, but I finally solved it!
+> 
 # 🌐 Network Speed Fix
 
 A comprehensive utility to optimize your internet connection speed using advanced network diagnostics and configuration resets.
